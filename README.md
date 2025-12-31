@@ -37,7 +37,7 @@ git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
 ```
 
-##📂 STEP 2: Create New Git Repository (Local)
+## 📂 STEP 2: Create New Git Repository (Local)
 Go to your project folder:
 ```bash
 cd your-project-folder
