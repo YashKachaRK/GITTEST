@@ -1,21 +1,3 @@
-# Text Content vs Document Write Text
-
-# textContent
-`textContent` we can change inside text.
-
-### Example:
-```bash
-outputP.textContent = `${a} is big`
-```
-
-# innerText
-`document.innerText = "Yash "`  we also this method change inside text.
-
-### Example:
-```bash
-outputP.innerText = c;
-```
-
 # 📘 Git & GitHub Basics – Add Files and Collaborate with Friends
 
 This guide helps you **learn Git from zero**, including how to **add files**, **push to GitHub**, and **collaborate with friends** step by step.
